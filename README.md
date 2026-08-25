@@ -15,7 +15,7 @@ All the Assets published here are either Free with Premium Plans or Only Free.Yo
 
 [Fly.io](https://fly.io) - Deploy App Servers close to Your Users. Make your applications 80% faster by running on physical servers in cities where your users are.
 
-[faable.com](https://faable.com) - Deploy Apps with framework auto-detection for python and node.js
+[Faable.com](https://faable.com) - Deploy Apps with framework auto-detection for python and node.js
 
 [GitHub Pages](https://pages.github.com) - Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live.
 
